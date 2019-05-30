@@ -32,3 +32,11 @@ server.js
   3. See morge configuration if need be
     https://cloud.google.com/appengine/docs/standard/nodejs/config/appref
 
+
+Adding GCP Datastore to Node js App
+   1. Adding Cloud dataStore as a dependency
+
+   "dependencies": {
+       "@google-cloud/datastore": "^3.0.0",
+       "express": "^4.16.4"
+     },
