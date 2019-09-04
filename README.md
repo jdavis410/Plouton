@@ -12,8 +12,9 @@ Microservice Architecture + Google Cloud Platform
 ## Neptune
  
 # Completion Table
+
 | Started | Planets       |Language     | Security      | UI    | Database |
-| ------- | ------------- |--------:    |:-------------:| -----:|---------:|
+|:------- | ------------- |--------:    |:-------------:| -----:|---------:|
 | yes     | Mercury       | node.js     |               |  n    |          |
 | no      | Venus         | spring-java |               |  y    |          |
 | yes     | Mars          | spring-java |               |  n    |          |
